@@ -3,28 +3,4 @@ layout: default
 title: About
 permalink: /about/
 ---
-
-<div class="page">
-  <div class="container">
-    <div class="page-intro">
-      <div class="eyebrow">About</div>
-      <h1>A little about the person behind the research.</h1>
-    </div>
-
-    <div class="about-grid">
-      <div>
-        <img class="profile" src="{{ '/assets/images/nehal-profile.jpg' | relative_url }}" alt="Portrait of Nehal C. P.">
-      </div>
-      <div>
-        <p class="lede">I am an astrophysics researcher from India with a background in physics and computational analysis.</p>
-        <p>My research experience has centred on extragalactic astronomy, particularly dual active galactic nuclei, galaxy mergers, and the morphology of their host galaxies. I enjoy working with large astronomical datasets and turning imaging data into quantitative measurements that can be used to answer physical questions.</p>
-        <p>My current interests include galaxy evolution, active galactic nuclei, supermassive black holes, galaxy structure, and observational approaches that can connect these areas.</p>
-        <div class="links">
-          <a href="https://github.com/ncp00">GitHub</a>
-          <a href="https://scholar.google.com/">Google Scholar</a>
-          <a href="https://orcid.org/">ORCID</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+<div class="page"><div class="container"><div class="page-intro"><div class="eyebrow">About</div><h1>A little about the person behind the research.</h1></div><div class="about-grid"><div><div class="profile-placeholder" aria-label="Profile photograph placeholder"><span>NEHAL<br>C. P.</span></div></div><div><p class="lede">I am an astrophysics researcher from India with a background in physics and computational analysis.</p><p>My research experience has centred on extragalactic astronomy, particularly dual active galactic nuclei, galaxy mergers, and the morphology of their host galaxies. I enjoy working with large astronomical datasets and turning imaging data into quantitative measurements that can be used to answer physical questions.</p><p>My current interests include galaxy evolution, active galactic nuclei, supermassive black holes, galaxy structure, and observational approaches that can connect these areas.</p><div class="links"><a href="https://github.com/ncp00">GitHub</a><a href="https://scholar.google.com/">Google Scholar</a><a href="https://orcid.org/">ORCID</a></div><p class="small-note">A profile photograph will be added here in the next design pass.</p></div></div></div></div>
