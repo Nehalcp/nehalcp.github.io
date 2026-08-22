@@ -1,0 +1,16 @@
+title: "Nehal C. P."
+description: "Astrophysics Researcher | Galaxy Evolution & AGN"
+url: "https://ncp00.github.io"
+baseurl: ""
+lang: "en"
+markdown: kramdown
+permalink: /notes/:title/
+collections:
+  projects:
+    output: true
+    permalink: /research/:name/
+plugins: []
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
