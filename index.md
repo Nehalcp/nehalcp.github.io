@@ -18,8 +18,8 @@ description: Astrophysics Researcher | Galaxy Evolution & AGN
             </div>
         </div>
 
-        <div class="hero-photo-wrap">
-            <img class="hero-profile" src="{{ '/assets/images/picture.jpg' | relative_url }}" alt="Nehal C. P.">
+        <div class="about-photo-wrap" style="width: 380px; height: 380px; transform: none; margin: 0 auto;">
+            <img class="profile-oval" src="{{ '/assets/images/picture.jpg' | relative_url }}" alt="Nehal C. P." style="object-position: 38% 30%;">
         </div>
     </div>
 </section>
