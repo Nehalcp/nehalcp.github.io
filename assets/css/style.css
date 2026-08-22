@@ -653,14 +653,13 @@ h1 {
 
     object-fit: cover;
 
-    /*
-       Controls which part of the photograph
-       is visible inside the oval.
-
-       First value  = horizontal
-       Second value = vertical
+    /* 
+       Horizontal: Increased from 38% to 25% - 30% area shift 
+       (Note: Lowering horizontal % shifts the focal area left, moving image content RIGHT)
+       Vertical: Increased from 34% to 25% - 28% area shift 
+       (Note: Lowering vertical % shifts the focal area up, moving image content DOWN)
     */
-    object-position: 38% 34%;
+    object-position: 25% 25%;
 
     border-radius: 50% !important;
 
