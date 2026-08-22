@@ -5,10 +5,6 @@ baseurl: ""
 lang: "en"
 markdown: kramdown
 permalink: /notes/:title/
-collections:
-  projects:
-    output: true
-    permalink: /research/:name/
 plugins: []
 exclude:
   - Gemfile
